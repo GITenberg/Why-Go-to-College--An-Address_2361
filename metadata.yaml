@@ -1,0 +1,26 @@
+_repo: Why-Go-to-College--An-Address_2361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palmer, Alice Freeman
+    alias: Palmer, Alice Elvira Freeman
+    birthdate: 1855
+    deathdate: 1902
+    gutenberg_agent_id: '876'
+    url: http://www.gutenberg.org/2009/agents/876
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Freeman_Palmer
+description: ''
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Education (Higher)'
+- !lcc 'LC'
+- GITenberg
+title: Why Go to College? An Address
+url: http://www.gutenberg.org/ebooks/2361
